@@ -1,0 +1,47 @@
+---
+title: "FAKE ARTICLE: Who Answers the Survey? Exploring Patterns of Nonresponse in Campus Climate Data"
+author:
+  - name: Amara Patel
+    affiliation: Lakeshore University
+  - name: Noah Williams
+    affiliation: Lakeshore University
+date: 2027-01-09
+description: >
+  We examine patterns of survey nonresponse and investigate how
+  weighting adjustments affect estimates from a campus climate survey.
+categories:
+  - survey sampling
+  - missing data
+  - data ethics
+---
+
+## Abstract
+
+Survey-based research relies on the assumption that respondents adequately
+represent the population of interest. However, differential nonresponse can
+introduce substantial bias.
+
+Using data from a university campus climate survey, we compare respondent
+characteristics with known population characteristics and investigate
+post-stratification weighting as one method for reducing observed
+imbalances.
+
+Our analysis illustrates why response rate alone is an incomplete measure
+of survey quality and highlights the importance of examining who is
+represented in collected data.
+
+**Keywords:** survey sampling, nonresponse, weighting, missing data
+
+---
+
+## Article information
+
+**Received:** September 21, 2026  
+**Accepted:** December 15, 2026  
+**Published:** January 9, 2027  
+
+**DOI:** *Placeholder*
+
+**License:** CC BY-NC-SA 4.0
+
+[Download PDF](article.pdf){.btn .btn-primary}

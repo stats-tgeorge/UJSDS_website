@@ -1,0 +1,95 @@
+---
+title: "ARTICLE TITLE"
+
+author:
+  - name: "First Author"
+    orcid: "0000-0000-0000-0000"
+    affiliations:
+      - name: "Example University"
+        city: "Example City"
+        state: "IA"
+        country: "USA"
+
+  - name: "Second Author"
+    affiliations:
+      - name: "Example College"
+        city: "Example City"
+        state: "IA"
+        country: "USA"
+
+date: 2027-01-15
+
+abstract: |
+  Replace this text with the article abstract. This metadata can also
+  be used automatically by Quarto when the article appears in listings.
+
+keywords:
+  - regression
+  - data science
+  - undergraduate research
+
+categories:
+  - Regression
+  - Data Science
+
+description: >
+  A short one- or two-sentence description of the article for
+  website listings and search results.
+
+toc: true
+---
+
+::: {.journal-metadata}
+
+**Volume:** 1  
+**Article:** 1  
+**Published:** January 15, 2027  
+**Received:** October 15, 2026  
+**Revised:** December 2, 2026  
+**Accepted:** December 18, 2026  
+
+**DOI:** DOI pending  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+:::
+
+[Download PDF](article.pdf){.btn .btn-primary}
+
+<!-- Add these only when applicable -->
+
+[View Code](https://github.com/REPOSITORY){.btn .btn-outline-primary}
+
+[View Data](https://doi.org/DATA-DOI){.btn .btn-outline-primary}
+
+
+## Abstract
+
+Replace this with the article abstract.
+
+## Introduction
+
+Article text goes here.
+
+## Methods
+
+Article text goes here.
+
+## Results
+
+Article text goes here.
+
+## Discussion
+
+Article text goes here.
+
+## Acknowledgments
+
+Optional.
+
+## Data and Code Availability
+
+State where the data and code can be accessed, or explain any restrictions.
+
+## References
+
+Use normal Quarto/Pandoc citations here once you have a bibliography file.

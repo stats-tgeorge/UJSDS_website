@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/articles.html",
+    "items": [
+      "/articles/2027/chen-logistic/index.html",
+      "/articles/2027/lee-random-forest/index.html",
+      "/articles/2027/patel-survey/index.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about/aims-scope.html",
+      "/about/editorial-board.html",
+      "/about/policies.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/articles/2027/chen-logistic/index.html",
+      "/articles/2027/lee-random-forest/index.html",
+      "/articles/2027/patel-survey/index.html"
+    ]
+  }
+]

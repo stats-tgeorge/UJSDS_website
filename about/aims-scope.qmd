@@ -1,0 +1,6 @@
+---
+title: "Aims and Scopes"
+description: "Details on Aims and Scopes of the Journal"
+format: html
+---
+

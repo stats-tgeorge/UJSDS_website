@@ -1,0 +1,29 @@
+---
+title: "About"
+
+listing:
+  contents:
+    - about/aims-scope.qmd
+    - about/editorial-board.qmd
+    - about/policies.qmd
+  type: grid
+  fields: [title, description]
+  sort-ui: false
+  filter-ui: false
+---
+
+The Undergraduate Journal of Statistics and Data Science (UJSDS) is...
+
+This is about the leadership/creation/status
+
+::: {.journal-highlight}
+
+## Interested in Reviewing?
+
+We welcome faculty members, graduate students, and qualified undergraduate students who are interested in reviewing undergraduate research in statistics and data science.
+
+Reviewers help evaluate the quality, clarity, methodology, and contribution of submitted work. Each manuscript is reviewed by a three-person team that includes at least one faculty member and no more than one undergraduate reviewer.
+
+[Sign Up to Be a Reviewer](YOUR-GOOGLE-FORM-URL){.btn .btn-primary .btn-lg target="_blank"}
+
+:::

@@ -1,0 +1,70 @@
+---
+title: "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression"
+author:
+  - name: Maya Chen
+    affiliation: Great Plains College
+  - name: Luis Ortega
+    affiliation: Great Plains College
+date: 2027-01-24
+description: >
+  We investigate demographic and academic predictors of first-year
+  student persistence using logistic regression and model validation.
+categories:
+  - regression
+  - education
+  - predictive modeling
+---
+
+## Abstract
+
+Student persistence remains an important question for institutions of
+higher education. In this study, we use logistic regression to investigate
+the relationship between measures of academic preparation, first-semester
+performance, and first-year persistence.
+
+Using an anonymized dataset of 2,418 students, we compare candidate models
+using cross-validation and evaluate predictive performance using ROC AUC,
+sensitivity, and specificity. First-semester GPA and credit completion
+emerge as the strongest predictors of persistence.
+
+The results illustrate both the usefulness and limitations of predictive
+models in educational settings and emphasize the importance of considering
+ethical implications when using student-level data.
+
+**Keywords:** logistic regression, education, cross-validation, predictive modeling
+
+---
+
+## Article information
+
+**Received:** October 18, 2026  
+**Accepted:** January 8, 2027  
+**Published:** January 24, 2027  
+
+**DOI:** *Placeholder*
+
+**License:** CC BY-NC-SA 4.0
+
+[Download PDF](article.pdf){.btn .btn-primary}
+
+---
+
+## Introduction
+
+Student persistence has been studied extensively...
+
+## Methods
+
+We analyzed an anonymized dataset containing...
+
+## Results
+
+The final logistic regression model...
+
+## Discussion
+
+Our results suggest...
+
+## References
+
+Chen, A. A. (2024). Example reference...

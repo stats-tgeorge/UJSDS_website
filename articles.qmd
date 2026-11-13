@@ -1,0 +1,16 @@
+---
+title: "Publications"
+
+listing:
+  contents: "articles/**/index.qmd"
+  type: table
+  fields: [date, title, author]
+  sort: "date desc"
+  page-size: 25
+  table-hover: true
+  filter-ui: true
+  sort-ui: true
+---
+
+
+This is where the articles will be found. 

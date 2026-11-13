@@ -1,0 +1,91 @@
+/* scss styles */
+/*-- scss:defaults --*/
+
+// Journal color palette
+$navy:       #17324D;
+$teal:       #147D7E;
+$gold:       #D9A441;
+$mist-blue:  #E8F1F5;
+$warm-paper: #FAF9F6;
+$ink:        #263238;
+$white:      #FFFFFF;
+
+// Bootstrap / Quarto theme variables
+$primary: $teal;
+$secondary: $navy;
+
+$body-bg: $warm-paper;
+$body-color: $ink;
+
+$link-color: $teal;
+$link-hover-color: darken($teal, 10%);
+
+$navbar-bg: $navy;
+$navbar-fg: $white;
+
+$headings-color: $navy;
+
+$border-color: #D7E1E5;
+
+$border-radius: 0.5rem;
+
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  color: $navy;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration-color: rgba($teal, 0.35);
+}
+
+a:hover {
+  text-decoration-color: $teal;
+}
+
+.navbar {
+  border-bottom: 4px solid $teal;
+}
+
+.btn-primary {
+  background-color: $teal;
+  border-color: $teal;
+}
+
+.btn-primary:hover {
+  background-color: darken($teal, 7%);
+  border-color: darken($teal, 7%);
+}
+
+/* Callout/card style */
+.journal-card {
+  background: $white;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+/* Gold should be an accent, not a dominant color */
+.journal-highlight {
+  border-left: 5px solid $gold;
+  background: $mist-blue;
+  padding: 1rem 1.25rem;
+}
+
+/* Article metadata box */
+.journal-metadata {
+  background-color: $mist-blue;
+  border-left: 4px solid $teal;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 0.4rem;
+}
+
+.journal-metadata p:last-child {
+  margin-bottom: 0;
+}

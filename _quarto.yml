@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  
+  render:
+    - "*.qmd"
+    - "about/**/*.qmd"
+    - "articles/**/*.qmd"
+    - "!downloads/**"
+
+  resources:
+    - downloads/**
+    
+website:
+  title: "The Undergraduate Journal of Statistics and Data Science"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+        
+      - about.qmd
+      - process.qmd
+      - articles.qmd
+      
+    right:
+      - href: submit.qmd
+        text: "Submit an Article"
+    
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+
+
+

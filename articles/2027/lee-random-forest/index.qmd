@@ -1,0 +1,44 @@
+---
+title: "FAKE ARTICLE: How Much Does Tuning Matter? A Comparison of Random Forest Models"
+author:
+  - name: Jordan Lee
+    affiliation: Midwestern Liberal Arts College
+date: 2027-01-18
+description: >
+  A simulation study examines how common random forest tuning choices
+  affect predictive performance across datasets with differing signal
+  strengths.
+categories:
+  - statistical learning
+  - random forests
+  - simulation
+---
+
+## Abstract
+
+Random forests are commonly introduced as flexible predictive models,
+but introductory applications often rely on default tuning parameters.
+We investigate whether tuning meaningfully improves predictive performance
+under a range of simulated data-generating conditions.
+
+Using repeated cross-validation, we compare models that vary the number
+of candidate variables considered at each split, minimum node size, and
+number of trees. Our results show that tuning has relatively little impact
+in some high-signal settings but can substantially improve performance
+when signal is weaker or predictors contain substantial noise.
+
+**Keywords:** random forest, machine learning, simulation, cross-validation
+
+---
+
+## Article information
+
+**Received:** October 5, 2026  
+**Accepted:** December 22, 2026  
+**Published:** January 18, 2027  
+
+**DOI:** *Placeholder*
+
+**License:** CC BY-NC-SA 4.0
+
+[Download PDF](article.pdf){.btn .btn-primary}

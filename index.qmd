@@ -1,0 +1,68 @@
+---
+title: "Undergraduate Journal of Statistics and Data Science"
+subtitle: "UJSDS"
+
+listing:
+  id: latest-articles
+  contents: "articles/**/index.qmd"
+  type: table
+  fields: [date, title, author]
+  sort: "date desc"
+  page-size: 5
+  sort-ui: false
+  filter-ui: false
+---
+
+## Undergraduate Research in Statistics & Data Science
+
+[ONE OR TWO SENTENCES DESCRIBING THE JOURNAL.]
+
+[Submit an Article](submit.qmd){.btn .btn-primary .btn-lg}
+
+[Browse Articles](articles.qmd){.btn .btn-outline-primary .btn-lg}
+
+
+## About the Journal
+
+[WRITE 1–2 SHORT PARAGRAPHS HERE.]
+
+Possible things to address:
+
+- Who the journal is for.
+- What kinds of statistics and data science work you publish.
+- Your emphasis on undergraduate scholarship.
+- Your connection with reproducible research.
+- Your relationship with USRESP, once that is finalized.
+
+
+## Open and Accessible Scholarship
+
+**Peer Reviewed · Diamond Open Access · No Publication Fees**
+
+Articles are freely available to readers, and authors are not charged
+submission or publication fees.
+
+[ADD ANOTHER SENTENCE ABOUT COPYRIGHT / OPEN ACCESS LATER IF DESIRED.]
+
+
+## Latest Articles
+
+::: {#latest-articles}
+:::
+
+
+[Browse All Articles →](articles.qmd)
+
+
+## Submit Your Research
+
+[SHORT INVITATION TO UNDERGRADUATE AUTHORS.]
+
+Possible wording/topics:
+
+- Coursework, capstones, independent research, REUs, competitions, etc.
+- Statistics and data science topics welcomed.
+- Work should have been substantially completed while the lead author
+  was an undergraduate.
+
+[Submit an Article](submit.qmd){.btn .btn-primary}

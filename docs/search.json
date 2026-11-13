@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "submit.html",
+    "href": "submit.html",
+    "title": "Submiting an Article",
+    "section": "",
+    "text": "Download Quarto Article Template"
+  },
+  {
+    "objectID": "submit.html#submission-template",
+    "href": "submit.html#submission-template",
+    "title": "Submiting an Article",
+    "section": "",
+    "text": "Download Quarto Article Template"
+  },
+  {
+    "objectID": "submit.html#submission-instructions",
+    "href": "submit.html#submission-instructions",
+    "title": "Submiting an Article",
+    "section": "Submission Instructions",
+    "text": "Submission Instructions"
+  },
+  {
+    "objectID": "submit.html#submit",
+    "href": "submit.html#submit",
+    "title": "Submiting an Article",
+    "section": "Submit",
+    "text": "Submit\nSubmit Now"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Undergraduate Journal of Statistics and Data Science",
+    "section": "",
+    "text": "[ONE OR TWO SENTENCES DESCRIBING THE JOURNAL.]\nSubmit an Article\nBrowse Articles"
+  },
+  {
+    "objectID": "index.html#undergraduate-research-in-statistics-data-science",
+    "href": "index.html#undergraduate-research-in-statistics-data-science",
+    "title": "Undergraduate Journal of Statistics and Data Science",
+    "section": "",
+    "text": "[ONE OR TWO SENTENCES DESCRIBING THE JOURNAL.]\nSubmit an Article\nBrowse Articles"
+  },
+  {
+    "objectID": "index.html#about-the-journal",
+    "href": "index.html#about-the-journal",
+    "title": "Undergraduate Journal of Statistics and Data Science",
+    "section": "About the Journal",
+    "text": "About the Journal\n[WRITE 1–2 SHORT PARAGRAPHS HERE.]\nPossible things to address:\n\nWho the journal is for.\nWhat kinds of statistics and data science work you publish.\nYour emphasis on undergraduate scholarship.\nYour connection with reproducible research.\nYour relationship with USRESP, once that is finalized."
+  },
+  {
+    "objectID": "index.html#open-and-accessible-scholarship",
+    "href": "index.html#open-and-accessible-scholarship",
+    "title": "Undergraduate Journal of Statistics and Data Science",
+    "section": "Open and Accessible Scholarship",
+    "text": "Open and Accessible Scholarship\nPeer Reviewed · Diamond Open Access · No Publication Fees\nArticles are freely available to readers, and authors are not charged submission or publication fees.\n[ADD ANOTHER SENTENCE ABOUT COPYRIGHT / OPEN ACCESS LATER IF DESIRED.]"
+  },
+  {
+    "objectID": "index.html#latest-articles",
+    "href": "index.html#latest-articles",
+    "title": "Undergraduate Journal of Statistics and Data Science",
+    "section": "Latest Articles",
+    "text": "Latest Articles\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 24, 2027\n\n\nFAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression\n\n\nMaya Chen, Luis Ortega\n\n\n\n\n\n\nJan 18, 2027\n\n\nFAKE ARTICLE: How Much Does Tuning Matter? A Comparison of Random Forest Models\n\n\nJordan Lee\n\n\n\n\n\n\nJan 9, 2027\n\n\nFAKE ARTICLE: Who Answers the Survey? Exploring Patterns of Nonresponse in Campus Climate Data\n\n\nAmara Patel, Noah Williams\n\n\n\n\n\n\nNo matching items\n\nBrowse All Articles →"
+  },
+  {
+    "objectID": "index.html#submit-your-research",
+    "href": "index.html#submit-your-research",
+    "title": "Undergraduate Journal of Statistics and Data Science",
+    "section": "Submit Your Research",
+    "text": "Submit Your Research\n[SHORT INVITATION TO UNDERGRADUATE AUTHORS.]\nPossible wording/topics:\n\nCoursework, capstones, independent research, REUs, competitions, etc.\nStatistics and data science topics welcomed.\nWork should have been substantially completed while the lead author was an undergraduate.\n\nSubmit an Article"
+  },
+  {
+    "objectID": "articles/2027/lee-random-forest/index.html",
+    "href": "articles/2027/lee-random-forest/index.html",
+    "title": "FAKE ARTICLE: How Much Does Tuning Matter? A Comparison of Random Forest Models",
+    "section": "",
+    "text": "Random forests are commonly introduced as flexible predictive models, but introductory applications often rely on default tuning parameters. We investigate whether tuning meaningfully improves predictive performance under a range of simulated data-generating conditions.\nUsing repeated cross-validation, we compare models that vary the number of candidate variables considered at each split, minimum node size, and number of trees. Our results show that tuning has relatively little impact in some high-signal settings but can substantially improve performance when signal is weaker or predictors contain substantial noise.\nKeywords: random forest, machine learning, simulation, cross-validation"
+  },
+  {
+    "objectID": "articles/2027/lee-random-forest/index.html#abstract",
+    "href": "articles/2027/lee-random-forest/index.html#abstract",
+    "title": "FAKE ARTICLE: How Much Does Tuning Matter? A Comparison of Random Forest Models",
+    "section": "",
+    "text": "Random forests are commonly introduced as flexible predictive models, but introductory applications often rely on default tuning parameters. We investigate whether tuning meaningfully improves predictive performance under a range of simulated data-generating conditions.\nUsing repeated cross-validation, we compare models that vary the number of candidate variables considered at each split, minimum node size, and number of trees. Our results show that tuning has relatively little impact in some high-signal settings but can substantially improve performance when signal is weaker or predictors contain substantial noise.\nKeywords: random forest, machine learning, simulation, cross-validation"
+  },
+  {
+    "objectID": "articles/2027/lee-random-forest/index.html#article-information",
+    "href": "articles/2027/lee-random-forest/index.html#article-information",
+    "title": "FAKE ARTICLE: How Much Does Tuning Matter? A Comparison of Random Forest Models",
+    "section": "Article information",
+    "text": "Article information\nReceived: October 5, 2026\nAccepted: December 22, 2026\nPublished: January 18, 2027\nDOI: Placeholder\nLicense: CC BY-NC-SA 4.0\nDownload PDF"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This is where the articles will be found.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 24, 2027\n\n\nFAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression\n\n\nMaya Chen, Luis Ortega\n\n\n\n\n\n\nJan 18, 2027\n\n\nFAKE ARTICLE: How Much Does Tuning Matter? A Comparison of Random Forest Models\n\n\nJordan Lee\n\n\n\n\n\n\nJan 9, 2027\n\n\nFAKE ARTICLE: Who Answers the Survey? Exploring Patterns of Nonresponse in Campus Climate Data\n\n\nAmara Patel, Noah Williams\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Undergraduate Journal of Statistics and Data Science (UJSDS) is…\nThis is about the leadership/creation/status"
+  },
+  {
+    "objectID": "about.html#interested-in-reviewing",
+    "href": "about.html#interested-in-reviewing",
+    "title": "About",
+    "section": "Interested in Reviewing?",
+    "text": "Interested in Reviewing?\nWe welcome faculty members, graduate students, and qualified undergraduate students who are interested in reviewing undergraduate research in statistics and data science.\nReviewers help evaluate the quality, clarity, methodology, and contribution of submitted work. Each manuscript is reviewed by a three-person team that includes at least one faculty member and no more than one undergraduate reviewer.\nSign Up to Be a Reviewer"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html",
+    "href": "articles/2027/chen-logistic/index.html",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "",
+    "text": "Student persistence remains an important question for institutions of higher education. In this study, we use logistic regression to investigate the relationship between measures of academic preparation, first-semester performance, and first-year persistence.\nUsing an anonymized dataset of 2,418 students, we compare candidate models using cross-validation and evaluate predictive performance using ROC AUC, sensitivity, and specificity. First-semester GPA and credit completion emerge as the strongest predictors of persistence.\nThe results illustrate both the usefulness and limitations of predictive models in educational settings and emphasize the importance of considering ethical implications when using student-level data.\nKeywords: logistic regression, education, cross-validation, predictive modeling"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#abstract",
+    "href": "articles/2027/chen-logistic/index.html#abstract",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "",
+    "text": "Student persistence remains an important question for institutions of higher education. In this study, we use logistic regression to investigate the relationship between measures of academic preparation, first-semester performance, and first-year persistence.\nUsing an anonymized dataset of 2,418 students, we compare candidate models using cross-validation and evaluate predictive performance using ROC AUC, sensitivity, and specificity. First-semester GPA and credit completion emerge as the strongest predictors of persistence.\nThe results illustrate both the usefulness and limitations of predictive models in educational settings and emphasize the importance of considering ethical implications when using student-level data.\nKeywords: logistic regression, education, cross-validation, predictive modeling"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#article-information",
+    "href": "articles/2027/chen-logistic/index.html#article-information",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "Article information",
+    "text": "Article information\nReceived: October 18, 2026\nAccepted: January 8, 2027\nPublished: January 24, 2027\nDOI: Placeholder\nLicense: CC BY-NC-SA 4.0\nDownload PDF"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#introduction",
+    "href": "articles/2027/chen-logistic/index.html#introduction",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "Introduction",
+    "text": "Introduction\nStudent persistence has been studied extensively…"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#methods",
+    "href": "articles/2027/chen-logistic/index.html#methods",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "Methods",
+    "text": "Methods\nWe analyzed an anonymized dataset containing…"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#results",
+    "href": "articles/2027/chen-logistic/index.html#results",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "Results",
+    "text": "Results\nThe final logistic regression model…"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#discussion",
+    "href": "articles/2027/chen-logistic/index.html#discussion",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "Discussion",
+    "text": "Discussion\nOur results suggest…"
+  },
+  {
+    "objectID": "articles/2027/chen-logistic/index.html#references",
+    "href": "articles/2027/chen-logistic/index.html#references",
+    "title": "FAKE ARTICLE: Modeling First-Year Student Success Using Logistic Regression",
+    "section": "References",
+    "text": "References\nChen, A. A. (2024). Example reference…"
+  },
+  {
+    "objectID": "articles/2027/patel-survey/index.html",
+    "href": "articles/2027/patel-survey/index.html",
+    "title": "FAKE ARTICLE: Who Answers the Survey? Exploring Patterns of Nonresponse in Campus Climate Data",
+    "section": "",
+    "text": "Survey-based research relies on the assumption that respondents adequately represent the population of interest. However, differential nonresponse can introduce substantial bias.\nUsing data from a university campus climate survey, we compare respondent characteristics with known population characteristics and investigate post-stratification weighting as one method for reducing observed imbalances.\nOur analysis illustrates why response rate alone is an incomplete measure of survey quality and highlights the importance of examining who is represented in collected data.\nKeywords: survey sampling, nonresponse, weighting, missing data"
+  },
+  {
+    "objectID": "articles/2027/patel-survey/index.html#abstract",
+    "href": "articles/2027/patel-survey/index.html#abstract",
+    "title": "FAKE ARTICLE: Who Answers the Survey? Exploring Patterns of Nonresponse in Campus Climate Data",
+    "section": "",
+    "text": "Survey-based research relies on the assumption that respondents adequately represent the population of interest. However, differential nonresponse can introduce substantial bias.\nUsing data from a university campus climate survey, we compare respondent characteristics with known population characteristics and investigate post-stratification weighting as one method for reducing observed imbalances.\nOur analysis illustrates why response rate alone is an incomplete measure of survey quality and highlights the importance of examining who is represented in collected data.\nKeywords: survey sampling, nonresponse, weighting, missing data"
+  },
+  {
+    "objectID": "articles/2027/patel-survey/index.html#article-information",
+    "href": "articles/2027/patel-survey/index.html#article-information",
+    "title": "FAKE ARTICLE: Who Answers the Survey? Exploring Patterns of Nonresponse in Campus Climate Data",
+    "section": "Article information",
+    "text": "Article information\nReceived: September 21, 2026\nAccepted: December 15, 2026\nPublished: January 9, 2027\nDOI: Placeholder\nLicense: CC BY-NC-SA 4.0\nDownload PDF"
+  },
+  {
+    "objectID": "process.html",
+    "href": "process.html",
+    "title": "Review Process",
+    "section": "",
+    "text": "This is about the review process."
+  }
+]

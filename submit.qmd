@@ -1,0 +1,20 @@
+---
+title: "Submiting an Article"
+format: html
+---
+
+## Submission Template
+
+<a href="downloads/submission_template.qmd"
+   download
+   class="btn btn-primary">
+  Download Quarto Article Template
+</a>
+
+
+## Submission Instructions
+
+## Submit
+
+[Submit Now](YOUR-GOOGLE-FORM-URL){.btn .btn-primary .btn-lg target="_blank"}
+

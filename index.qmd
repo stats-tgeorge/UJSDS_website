@@ -13,8 +13,6 @@ listing:
   filter-ui: false
 ---
 
-## Undergraduate Research in Statistics & Data Science
-
 [ONE OR TWO SENTENCES DESCRIBING THE JOURNAL.]
 
 [Submit an Article](submit.qmd){.btn .btn-primary .btn-lg}
